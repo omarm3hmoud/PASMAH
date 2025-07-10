@@ -20,7 +20,7 @@ body::after{
     clip-path: circle(40% at right 70%);
 }
 .container{
-    width: 80%;
+    width: 180%;
     height: 80%;
     background:rgba(255, 255, 255, 0.144);
     border-radius: 20px;
@@ -121,10 +121,10 @@ nav ul li a:hover{
     
     }
     .content .image{
-        width:80%
+        width:100%
     }
     .content .image img{
-    width: 80%;
+    width: 100%;
     padding: none;
     }
     .content .text h2{
